@@ -94,7 +94,7 @@ WSGI_APPLICATION = 'web_app.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/4.2/ref/settings/#databases
 
-if env('USEDEBUGDB') == 'False':
+if env('USEDEBUGDB') == 'True':
     print('HELLO')
     DATABASES = {
         'default': {
