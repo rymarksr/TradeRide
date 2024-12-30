@@ -30,9 +30,6 @@ If you would like to contribute to the development of the website, please follow
 - Create a new branch for your feature or bug fix.
 - Make your changes and submit a pull request for review.
 
-## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
 ## Support
 For any questions or issues regarding the website, please contact the project maintainers or open an issue on the GitHub repository.
 
