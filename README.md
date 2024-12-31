@@ -11,7 +11,7 @@
 
 ## Description
 TradeRide is a platform for buying and selling cars online.
-This is a readme file for a Django powered website. The website is designed to showcase the capabilities of Django, a high-level Python web framework, and to serve as a platform for various web applications and services.
+This is a Django powered website. The website is designed to showcase the capabilities of Django, a high-level Python web framework, and to serve as a platform for various web applications and services.
 
 ## Installation
 To run the website locally, follow these steps:
